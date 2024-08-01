@@ -9,10 +9,12 @@ Command-line инструмент, который распознает тип к
 
 Вывод будет: 
 *The string that you want to process: fun_string_example*
+
 *The result: snakeCase*
 
 `swift run FontCasesTool fun_string_example --font-case PascalCase`
 
 Вывод будет: 
 *The string that you want to process: fun_string_example*
+
 *The result: FunStringExample*
