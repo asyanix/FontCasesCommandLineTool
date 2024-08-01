@@ -4,6 +4,7 @@ Command-line инструмент, который распознает тип к
 Также можно указать желаемый тип кейса и программа вернет строку, сконвертированную в переданный кейс. Например, на вход поступило "fun/string/example" и "Train-Case", получаем "Fun-String-Example". 
 
 Для работы с данным инструментом используйте следующие команды:
+
 `swift run FontCasesTool fun_string_example`
 Вывод будет: 
 *The string that you want to process: fun_string_example*
